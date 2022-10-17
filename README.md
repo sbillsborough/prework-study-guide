@@ -6,7 +6,7 @@ This Prework Study Guide was created for boot camp students who were going throu
 
 ## Installation
 
-N/A
+N/A.
 
 ## Usage
 
